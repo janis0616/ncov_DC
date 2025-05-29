@@ -1,7 +1,7 @@
 {
   "version": "v2",
   "meta": {
-    "title": "DC SARS-CoV-2 submitted to GISAID 01/01/2025 - 04/30/2025",
+    "title": "DC SARS-CoV-2 samples submitted to GISAID 01/01/2025 - 04/30/2025",
     "updated": "2025-05-29",
     "display_defaults": {
       "color_by": "PHL_data"
@@ -99,7 +99,7 @@
         "strand": "+"
       }
     },
-    "description": "Nextstrain build for SARS-CoV-2 data from DC submitted to the GISAID database (gisaid.org) 01/01/2025 - 04/30/2025. \n\nThe reference strain Wuhan-Hu-1/2019 is used as the root of each tree.\n\n",
+    "description": "DC SARS-CoV-2 data submitted to the GISAID EpiCoV database (gisaid.org) 01/01/2025 - 04/30/2025. Some samples may not be visible due to quality filtering built into the NextStrain tree-building software. \n\nThe reference strain Wuhan-Hu-1/2019 is used as the root of each tree.\n\n",
     "colorings": [
       {
         "key": "clade_membership",
