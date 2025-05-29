@@ -1,7 +1,7 @@
 {
   "version": "v2",
   "meta": {
-    "title": "DC SARS-CoV-2 submitted to GISAID with submission date 01/01/2025 - 04/30/2025",
+    "title": "DC SARS-CoV-2 submitted to GISAID 01/01/2025 - 04/30/2025",
     "updated": "2025-05-29",
     "display_defaults": {
       "color_by": "PHL_data"
