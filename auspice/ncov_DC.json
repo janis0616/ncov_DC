@@ -99,7 +99,7 @@
         "strand": "+"
       }
     },
-    "description": "Nextstrain build for SARS-CoV-2 data from DC with submission date 01/01/2025 - 04/30/2025 in the GISAID EpiCoV database (gisaid.org). \n\nThe reference strain Wuhan-Hu-1/2019 is used as the root of each tree.\n\n",
+    "description": "Nextstrain build for SARS-CoV-2 data from DC submitted to the GISAID database (gisaid.org) 01/01/2025 - 04/30/2025. \n\nThe reference strain Wuhan-Hu-1/2019 is used as the root of each tree.\n\n",
     "colorings": [
       {
         "key": "clade_membership",
